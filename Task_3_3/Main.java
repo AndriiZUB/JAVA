@@ -1,6 +1,8 @@
-package JAVA.Task2;
+package JAVA.Task_3_3;
 
-import java.util.*;
+
+
+import java.util.Scanner;
 
 
 public class Main {
